@@ -1,3 +1,4 @@
+#بسم الله الرحمان الرحيم
 # -*- coding: utf-8 -*-
 # 110 DESKTOP
 # 159 SCRAPING
